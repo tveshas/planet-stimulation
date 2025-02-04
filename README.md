@@ -62,4 +62,5 @@ MIT License
 4. Submit a pull request
 
 ## Credits
-Created by [Your Name]
+Created with ❤️
+[credit](https://github.com/techwithtim/Python-Planet-Simulation/tree/main) where it's due 
