@@ -2,6 +2,9 @@
 
 A Python-based solar system simulation using Pygame that visualizes the orbits of Mercury, Venus, Earth, and Mars around the Sun, taking into account gravitational forces and astronomical units.
 
+<img width="1037" alt="Screenshot 2025-02-04 at 17 29 46" src="https://github.com/user-attachments/assets/085002c5-d955-4adb-8840-e427fbed19da" />
+
+
 ## Features
 - Realistic planetary orbit simulation based on gravitational forces
 - Visual representation of planetary movements
