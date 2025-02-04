@@ -1,4 +1,4 @@
-# Solar System Simulation
+# Solar System Simulation 🪐☀️
 
 A Python-based solar system simulation using Pygame that visualizes the orbits of Mercury, Venus, Earth, and Mars around the Sun, taking into account gravitational forces and astronomical units.
 
